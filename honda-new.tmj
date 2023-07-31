@@ -2486,7 +2486,7 @@
         {
          "columns":97,
          "firstgid":150964,
-         "image":"..\/..\/wa-office\/WAOffice1\/tilesets\/office-building.png",
+         "image":"tilesets\/office-building.png",
          "imageheight":3040,
          "imagewidth":3104,
          "margin":0,
