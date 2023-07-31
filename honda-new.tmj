@@ -2655,7 +2655,7 @@
         {
          "columns":209,
          "firstgid":199031,
-         "image":"..\/..\/premium-3\/TEMPLATEAddOnsPREMIUM3\/tilesets\/project-labs-bg.png",
+         "image":"tilesets\/project-labs-bg.png",
          "imageheight":4156,
          "imagewidth":6715,
          "margin":0,
